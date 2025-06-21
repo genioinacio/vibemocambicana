@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Festival da Capulana",
+    "data": "Agosto de 2024",
+    "local": "Praça da Independência, Pemba",
+    "descricao": "Um evento cultural incrível celebrando a arte da capulana.",
+    "imagem": "https://images.unsplash.com/photo-1601758003122-58e356f3db80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "nome": "Feira de Artesanato em Maputo",
+    "data": "Setembro de 2024",
+    "local": "Mercado Central de Maputo",
+    "descricao": "Exposição e venda de artigos artesanais locais.",
+    "imagem": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=400"
+  }
+]
